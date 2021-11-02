@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tylmz
+- 👋 Hi, I’m @tylmz. A virtualization and Software Defined Networking Expert
 - 👀 I’m interested in Cloud Computing, virtualization and Process Automation
 - 🌱 I’m currently learning python and shell
 - 💞️ I’m looking to collaborate on DevOps and process automation
